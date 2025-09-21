@@ -1,4 +1,4 @@
-# Exercicio-Artefatos-Teste
+# Atividades-TestesDeSoftware
 
 ## Alunos:
 * Bruno Abrahim Valério  
